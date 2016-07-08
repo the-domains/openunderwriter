@@ -1,0 +1,14 @@
+layout_spectrum: 0.316560375969857
+typography_spectrum: 0.6416126042604446
+color:
+  brandStrength: 0.16325436858460307
+  lightness: 0.6422470803372562
+  saturation: 0.6759626097045839
+  rhythmicContrast: 0.5389027977362275
+  brandColors:
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+name: OpenUnderwriter
